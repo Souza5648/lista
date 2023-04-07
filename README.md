@@ -1,1 +1,1 @@
-# lista
+# lista{ "list": "http://15.235.115.192:80/get.php?username=joel10&password=10joel&type=m3u_plus","User-Agent": "VLC/3.0.11.2 LibVLC/3.0.11.2", "validity": "31/12/2025", "success": true, "notifications": "" }
